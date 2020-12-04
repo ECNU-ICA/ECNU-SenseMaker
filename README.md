@@ -2,7 +2,7 @@
 
 Source code for Semeval 2020 Task4: Commonsense Validation and Explanation (ComVE)
 
-**The code will be released in the next few days.**
+**The code will be released in the next few days. (2020.12.05)**
 
 ## Results
 
