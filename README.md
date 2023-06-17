@@ -87,8 +87,8 @@ pip install wordfreq
 
 ### 2. Download Data
 
-- Download the `conceptnet5.zip` from [here](https://im0qianqian-my.sharepoint.com/:u:/g/personal/i_dreamwings_cn/EZpDqzhz6bdKitQXuREXPmkB0NefXv9ViDpgzBHpz9Lagw?e=53DWCg), and unzip it to the `conceptnet5/` directory.
-- Download the `pre_weights.zip` from [here](https://im0qianqian-my.sharepoint.com/:u:/g/personal/i_dreamwings_cn/EQTHepXNUfVGqMgulnIInjABiOsXYhLGI827VIUgvHtSXA?e=mSqLyA), and unzip it to the `pre_weights/` directory.
+- Download the `conceptnet5.zip` from [here](https://dreamwingscn-my.sharepoint.com/:u:/g/personal/i_dreamwings_cn/EXjSHXoMaMREkzujs67YJTkBuiZ_i17PIJbvXDSMDMoBNQ?e=8f6bh6), and unzip it to the `conceptnet5/` directory.
+- Download the `pre_weights.zip` from [here](https://dreamwingscn-my.sharepoint.com/:u:/g/personal/i_dreamwings_cn/EesJWMk4ypxPoOUFvXvw6TEBhWa_pmEy4bUaAOBVEwPaWw?e=jly4MK), and unzip it to the `pre_weights/` directory.
 
 The directory tree of ECNU-SenseMaker:
 
